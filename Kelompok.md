@@ -1,5 +1,7 @@
 # Proyek 1 ASD
-Kelas : 
-1. Nama Mhs 1, NIM Mhs 1
-2. Nama Mhs 2, NIM Mhs 2
-2. Nama Mhs 3, NIM Mhs 3
+
+Kelas : TIF-A
+
+1. Pandu Asmirikandhi, 255150207111083
+2. Muhammad Hafez Al-Rasyid, 255150207111084
+
